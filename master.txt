@@ -6,3 +6,6 @@ update test
 update master1
 
 update master after create test1
+
+
+update master after rebase test1
