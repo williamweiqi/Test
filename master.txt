@@ -1,13 +1,2 @@
-master
 test1
-master1
-
-master2
 test2
-
-
-master
-test
-
-test pr1
-test pr2
